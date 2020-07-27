@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My name's Fahed Elkhatib. I code cool things! My primary languages are python, c++, and php.
 <!--
 **fahedelkhatib/fahedelkhatib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
